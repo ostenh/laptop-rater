@@ -1,0 +1,8 @@
+*.html
+*_info
+laptops
+specs/
+scores
+stats
+__pycache__/
+qwe
